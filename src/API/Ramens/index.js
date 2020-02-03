@@ -1,1 +1,1 @@
-export { Ramens as default } from './Ramens';
+export { Ramens as default } from './Ramenss';

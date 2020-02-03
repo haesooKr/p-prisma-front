@@ -1,1 +1,1 @@
-export { Beverages as default } from './Ramens';
+export { Beverages as default } from './Beverages';

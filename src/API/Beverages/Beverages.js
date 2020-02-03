@@ -12,7 +12,7 @@ const QUERY = gql`
   }
 `;
 
-export const Beverage = () => {
+export const Beverages = () => {
   const { loading, error, data } = useQuery(QUERY);
   if (loading) return "loading";
   else if (error) return "error";
