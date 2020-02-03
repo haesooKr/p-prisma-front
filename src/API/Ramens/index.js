@@ -1,0 +1,1 @@
+export { Ramens as default } from './Ramens';
